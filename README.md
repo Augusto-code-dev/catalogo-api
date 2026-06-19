@@ -22,7 +22,7 @@ Instale:
 ### 2. Baixar o projeto
 
 ```bash
-git clone LINK_DO_SEU_REPOSITORIO
+git clone https://github.com/Augusto-code-dev/catalogo-api.git
 cd catalogo-api
 ```
 
